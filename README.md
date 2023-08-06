@@ -43,4 +43,5 @@ $ sh gen_dgn.sh
 ```
 You are able to change hyper-parameters with editing HyperParams class in ./biz/context_dc.py
 
+## Link
 Ito, Yasuaki and Nguyen, Minh Le, Directional Generative Networks. Available at SSRN: https://ssrn.com/abstract=4474512 or http://dx.doi.org/10.2139/ssrn.4474512
